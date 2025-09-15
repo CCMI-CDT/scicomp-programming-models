@@ -1,0 +1,5 @@
+[book]
+authors = ["Timo Betcke"]
+language = "en"
+src = "src"
+title = "Modern Programming Models for Scientific Computing"
