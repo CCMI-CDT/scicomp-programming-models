@@ -1,7 +1,6 @@
 # Schedule
 
-Each day consists of a morning session from 10am to 12:30 and an afternoon
-session from 2pm to 4pm.
+Each day consists of a morning session from 10am to 12:30 and an afternoon session from 2pm to 4pm.
 
 ## Monday
 - Morning Session
@@ -21,13 +20,13 @@ session from 2pm to 4pm.
 - Morning Session
   - Introduction to dense and sparse linear algebra software
 - Afternoon Session
-  - The UCL HPC Facilities
+  - Preparation time for Thursday presentations
 
 ## Thursday
 - Morning Session
   - Presentations on mathematical software libraries
 - Afternoon session
-  - Open-source Hackathon
+  - Hackathon on mathematical software
   
 ## Friday
 - Morning Session
