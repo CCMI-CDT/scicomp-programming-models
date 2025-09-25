@@ -15,6 +15,7 @@ Each day consists of a morning session from 10am to 12:30 and an afternoon sessi
   - Talks on HPC programming languages and environments
 - Afternoon Session
   - CDT Group session on living safely in London
+  - ARC social hour
 
 ## Wednesday
 - Morning Session
@@ -27,14 +28,10 @@ Each day consists of a morning session from 10am to 12:30 and an afternoon sessi
   - Presentations on mathematical software libraries
 - Afternoon session
   - Hackathon on mathematical software
-  
+
 ## Friday
 - Morning Session
   - Talk on [FEniCS](https://fenicsproject.org/), a major open-source computational simulation platform.
-    (Tentative Speaker: Dr Chris Richardson, Cambridge)
+    (Speaker: Dr Chris Richardson, University of Cambridge)
 - Afternoon Session
   - Summary and discussion of potential follow-up projects
-
-  
-  
-
