@@ -9,3 +9,5 @@
 [Presentations on Mathematical Libraries](mathematical_libraries.md)
 
 [Setting up your environment](environment.md)
+
+[Resources](resources.md)
